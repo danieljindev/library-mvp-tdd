@@ -1,6 +1,6 @@
-TDD approach for Laravel + Vue Development(Library MVP)
+# TDD approach for Laravel + Vue Development(Library MVP)
 
-# Tech Stack
+## Tech Stack
 - Laravel
 - Vue.js
 - Tailwind CSS
